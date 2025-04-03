@@ -1,0 +1,90 @@
+body {
+    /* Set line height to 1.5 times the font size
+       and use the OS’s UI font as the website font
+     */
+    font: 100%/2 system-ui;
+	font-family: monospace;
+	font-size: 2ch;
+    max-width: 100ch;
+    margin-inline: 10ch; /*Sets both margins in the inline direction to the same number*/
+    padding: 5ch;
+    background-color: color-mix(in oklch, var(--color-accent), canvas 85%);
+}
+
+:root {
+    --grey: oklch(93.62% 0 360);
+    --white: #ffffff;
+    --color-accent: oklch(87.94% 0.0617 19.76);
+    --border-color: oklch(50% 10% 200 / 40%);
+}
+
+
+img {
+    max-width: 100%;
+    height: auto;
+    max-height: 300px;
+    margin: 20px 0;
+    border-radius: 8px; 
+}
+
+h1 {
+    margin-bottom: 1em;
+    line-height: 1.1;
+    text-wrap: balance;
+    font-size: 400%;
+}
+
+input,textarea,button {
+    font: inherit;
+}  
+
+form {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 1em;
+}
+form label {
+    display: grid;
+    grid-template-columns: auto 1fr;
+}
+#button, label{
+    grid-column: 1 / -1;
+}
+
+img{
+    max-width: 100%;
+}
+
+.projects {
+    display:grid;
+    grid-template-columns : repeat(auto-fill, minmax(15em, 1fr));
+    min-width: 15em;
+    max-width: 1fr;
+}
+
+article{
+    margin: 10px;
+    display: grid;
+    grid-template-rows: subgrid;
+    grid-row: span 3;
+}
+
+article h2{
+    margin: 0;
+}
+
+.dark-mode-container {
+    position: absolute; /* Position the container in the upper-right corner */
+    top: 1rem; /* 1rem from the top */
+    right: 1rem; /* 1rem from the right */
+    display: flex; /* Use flexbox to align label and select next to each other */
+    align-items: center; /* Vertically center the label and select */
+    gap: 0.5rem; /* Adds space between the label and the select toggle */
+}
+
+select {
+    padding: 4px;
+    background-color: var(--white); /* Optional: Add background for contrast */
+    font-size: 1rem; /* Ensure the font size matches the label */
+    line-height: 1.5; /* Align the text properly */
+}

@@ -1,0 +1,74 @@
+[
+	{
+		"title": "Riemannian geometry of parameter space",
+		"year" : "2025",
+		"image": "https://www.researchgate.net/publication/352393226/figure/fig1/AS:1132455515963393@1647009843559/Basic-notions-of-Riemannian-geometry-mathcalM-is-a-Riemannian-manifold-A-smooth.jpg",
+		"description": "We try to  incorporate parameter space geometry in approximations of the predictive distrivution. That is usually done by sampling points on the tangent space and then taking their image via exponential map. As that involves solving teh geodesic equation, intrinsic geometry information is retained."
+	},
+	{
+		"title": "Moving out",
+		"year" : "2025",
+		"image": "https://media.newyorker.com/photos/5f65071a648cd10686f11247/master/w_2560%2Cc_limit/shouts-moving-out.jpg",
+		"description": "I'm moving out, and I've made some Uber drivers very unhappy with that fact."
+	},
+	{
+		"title": "Statistics(?)",
+		"year" : "2024 - 2025",
+		"image": "https://miro.medium.com/v2/resize:fit:1186/1*354JWR3KRpr-enwcyCywOQ.png",
+		"description": "Some measure theorical things are lacking. But Fisher's cool, I'll have to agree with Cox."
+	},
+	{
+		"title": "Viz",
+		"year" :"2025",
+		"image": "https://cdn.prod.website-files.com/5dbb30f00775d4350591a4e5/6335d467fb8c44e5fb2c0036_javascript%20introduction%20microverse%20770%20(1).webp",
+		"description": "It's been harder than I'd think. Everything that involves code is always so mysterious."
+	},
+	{
+		"title": "JavaScript",
+		"year" : "2025",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png",
+		"description": "I'm learning JS! Seems a bit crazy, but I'm excited to be able to start making my final Viz project using that. The plan is to make a site in which we explain, in a very visual and interactive manner, how gaussian processes work. If it all goes well, it'll be something nice to remember."
+	},
+	{
+		"title": "Quos sint quaerat omnis?",
+		"year" : "2025",
+		"image": "https://i.etsystatic.com/iap/a0f246/5502938083/iap_640x640.5502938083_69958kp0.jpg",
+		"description": "Est neque, velit nam rerum error odio voluptates voluptatem magnam laboriosam ad? Doloribus, id et itaque unde porro totam ullam quaerat blanditiis odit animi eveniet aut, voluptate velit iure odio."
+	},
+	{
+		"title": "Quos sint quaerat omnis?",
+		"year" : "2025",
+		"image": "https://i.etsystatic.com/iap/a0f246/5502938083/iap_640x640.5502938083_69958kp0.jpg",
+		"description": "Est neque, velit nam rerum error odio voluptates voluptatem magnam laboriosam ad? Doloribus, id et itaque unde porro totam ullam quaerat blanditiis odit animi eveniet aut, voluptate velit iure odio."
+	},
+	{
+		"title": "Quos sint quaerat omnis?",
+		"year" : "2025",
+		"image": "https://i.etsystatic.com/iap/a0f246/5502938083/iap_640x640.5502938083_69958kp0.jpg",
+		"description": "Est neque, velit nam rerum error odio voluptates voluptatem magnam laboriosam ad? Doloribus, id et itaque unde porro totam ullam quaerat blanditiis odit animi eveniet aut, voluptate velit iure odio."
+	},
+	{
+		"title": "Quos sint quaerat omnis?",
+		"year" : "2025",
+		"image": "https://i.etsystatic.com/iap/a0f246/5502938083/iap_640x640.5502938083_69958kp0.jpg",
+		"description": "Est neque, velit nam rerum error odio voluptates voluptatem magnam laboriosam ad? Doloribus, id et itaque unde porro totam ullam quaerat blanditiis odit animi eveniet aut, voluptate velit iure odio."
+	},
+	{
+		"title": "Quos sint quaerat omnis?",
+		"year" : "2025",
+		"image": "https://i.etsystatic.com/iap/a0f246/5502938083/iap_640x640.5502938083_69958kp0.jpg",
+		"description": "Est neque, velit nam rerum error odio voluptates voluptatem magnam laboriosam ad? Doloribus, id et itaque unde porro totam ullam quaerat blanditiis odit animi eveniet aut, voluptate velit iure odio."
+	},
+	{
+		"title": "Quos sint quaerat omnis?",
+		"year" : "2025",
+		"image": "https://i.etsystatic.com/iap/a0f246/5502938083/iap_640x640.5502938083_69958kp0.jpg",
+		"description": "Est neque, velit nam rerum error odio voluptates voluptatem magnam laboriosam ad? Doloribus, id et itaque unde porro totam ullam quaerat blanditiis odit animi eveniet aut, voluptate velit iure odio."
+	},
+	{
+		"title": "Quos sint quaerat omnis?",
+		"year" : "2025",
+		"image": "https://i.etsystatic.com/iap/a0f246/5502938083/iap_640x640.5502938083_69958kp0.jpg",
+		"description": "Est neque, velit nam rerum error odio voluptates voluptatem magnam laboriosam ad? Doloribus, id et itaque unde porro totam ullam quaerat blanditiis odit animi eveniet aut, voluptate velit iure odio."
+	}
+]
