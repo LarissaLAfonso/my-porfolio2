@@ -1,6 +1,7 @@
 <script>
     export let data = {};
     export let hLevel = 2;
+
 </script>
 
 <article>
